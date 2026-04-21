@@ -115,11 +115,6 @@ Authorization: Bearer <token>
 * Built REST APIs with proper structure
 * Worked with JPA relationships
 
----
-
-## Author
-
-* Your Name
 
 ---
 
