@@ -36,7 +36,7 @@ public class SecurityConfig {
         return http.build();
     }
 
-    // 🔥 INNER JWT FILTER
+    //  INNER JWT FILTER
     class JwtFilter extends GenericFilter {
 
         private final JwtUtil jwtUtil;
